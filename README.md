@@ -23,7 +23,7 @@ Certifique-se de ter um navegador web moderno instalado.
 4. Receba um conjunto de números sugeridos com base em dados históricos e análise estatística.
 
 ## Utilização pela Equipe de 📊 Analistas e Cientistas de Dados 📊
-Este repositório está sendo ativamente utilizado pela equipe de analistas e cientistas de dados do projeto. As análises estão sendo conduzidas principalmente através de Jupyter Notebooks, com a geração de insights por meio de gráficos. Os arquivos CSV tratados estão disponíveis para referência na pasta 'data'.
+Este repositório está sendo ativamente utilizado pela equipe de analistas e cientistas de dados do projeto. As análises estão sendo conduzidas principalmente através de Jupyter Notebooks, com a geração de insights por meio de gráficos. Os arquivos CSV tratados estão disponíveis para referência.
 
 ## Contribuições
 Se deseja contribuir para o projeto, siga as [diretrizes de contribuição](CONTRIBUTING.md).
