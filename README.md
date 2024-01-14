@@ -1,4 +1,4 @@
-MegaNumberGenerator
+📊 MegaNumberGenerator 🎲
 O quê?
 MegaNumberGenerator é uma plataforma web projetada para gerar sequências de números para jogar na loteria Mega Sena. As previsões de números são baseadas em dados históricos e nas crenças do jogador.
 
@@ -20,7 +20,7 @@ Visite MegaNumberGenerator.
 Insira quaisquer preferências ou crenças específicas que você tenha para a seleção de números.
 Clique no botão "Gerar Números".
 Receba um conjunto de números sugeridos com base em dados históricos e análise estatística.
-Utilização pela Equipe de Analistas e Cientistas de Dados
+Utilização pela Equipe de 📊 Analistas e Cientistas de Dados 📊
 Este repositório está sendo ativamente utilizado pela equipe de analistas e cientistas de dados do projeto. As análises estão sendo conduzidas principalmente através de Jupyter Notebooks, com a geração de insights por meio de gráficos. Os arquivos CSV tratados estão disponíveis para referência na pasta 'data'.
 
 Contribuições
@@ -30,5 +30,5 @@ Licença
 Este projeto está licenciado sob a Licença MIT.
 
 Reconhecimentos
-Agradecimentos à fonte-de-dados por fornecer dados históricos da loteria.
+Agradecimentos à 📊 fonte-de-dados por fornecer dados históricos da loteria.
 Inspiração proveniente do desejo de mesclar estatísticas e sorte para uma abordagem pragmática na seleção de números.
