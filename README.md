@@ -19,6 +19,14 @@ https://public.tableau.com/shared/9P6PFF8MW?:display_count=n&:origin=viz_share_l
 Mapa Ganhadores por Estado e Cidades:
 https://public.tableau.com/views/MapaGanhadoresporEstadoCidades/TabelaGanhadoresporCidade?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
+## Fontes
+
+### DA
+link: https://loteriadacaixa.net.br/mega-sena/todos-os-resultados-da-mega-sena/29275
+
+### DS
+link: https://asloterias.com.br/lista-de-resultados-da-mega-sena
+
 ## Contribuições
 Se deseja contribuir para o projeto, siga as [diretrizes de contribuição](CONTRIBUTING.md).
 
