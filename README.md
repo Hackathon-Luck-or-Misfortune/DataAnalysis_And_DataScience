@@ -2,7 +2,7 @@
 
 O diretório possui o Jupyter Notebook com o tratamento dos dados e EDA, comprovando a aleatoriedade da Mega Sena e uma possível estratégia para aumentar a probabilidade de vitória. Inclui o arquivo CSV utilizado e um arquivo README.
 
-## Regression_Estatistic
+## Estatistica
 
 O diretório possui o Jupyter Notebook com a modelagem estatística e regressão para a aplicação da estratégia na Mega Sena, criando um arquivo JSON no final. O notebook utiliza web scraping para coletar os dados e inclui um arquivo README.
 
